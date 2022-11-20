@@ -1,4 +1,4 @@
-## top react js questions and answers 
+## Top react js questions and answers 
 React is one of the most popular ja framework with lots of amazing use cases, top companies using it in various ways and knowing it would create lots of options for you as a developer 
 ### Table of Contents
 
