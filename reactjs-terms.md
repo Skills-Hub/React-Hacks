@@ -262,3 +262,46 @@ Now, let's explain the first 10 terms in the context of a house using the 5W rul
 79. **Hot Module Replacement (HMR)**: Imagine being able to replace a piece of furniture in a room without disrupting the rest of the room's setup. HMR in React allows developers to replace modules in a running application without a full reload.
 
 80. **React Query**: Think of an automated system that fetches items from your attic based on what you currently need in a room. React Query automates fetching, caching, and state management in React applications.
+
+    Absolutely! Let's tackle the last set of React terms:
+
+81. **Suspense**: Think of it as an under-construction sign placed in a room of your house while waiting for new furniture to arrive. In React, Suspense lets your components “wait” for something before rendering, like data fetching.
+
+82. **Lazy Loading**: Imagine your house light system turning on only in rooms you're currently in or about to enter, saving energy. Lazy loading in React allows components to be loaded only when they're needed, optimizing performance and reducing initial load times.
+
+83. **Higher-Order Component (HOC)**: Picture a customizable room template that you can use in multiple parts of the house. In React, HOCs are functions that take a component and return a new component with added properties or behavior.
+
+84. **React Fragments**: Think of them as invisible dividers in a room that don't add any extra structure but help organize space. React Fragments let you group a list of children without adding extra nodes to the DOM.
+
+85. **React Router**: It's like a guided tour system in your house, directing visitors from room to room based on their interests. React Router manages navigation in your application, defining multiple routes and their corresponding components.
+
+86. **Stateless Component**: Imagine rooms in your house with fixed setups, never changing regardless of external factors. Stateless components in React are those that simply receive props and render them to the UI without managing any internal state.
+
+87. **Stateful Component**: It's like a room equipped with sensors and automation, adjusting its setup based on external inputs. Stateful components in React maintain their own data state and decide how to render themselves.
+
+88. **Pure Components**: Picture a room in your house that only changes when you introduce new furniture or decor. In React, Pure Components are those that don’t re-render unless their state or props change.
+
+89. **Portals**: Think of them as magical doorways in your house that transport you outside instantly. React Portals provide a first-class way to render child components into a DOM node outside of the parent DOM hierarchy.
+
+90. **React DevTools**: This is like an advanced diagnostic tool to check the health and structure of your house. React DevTools is a browser extension that helps developers inspect a React Renderer, including the component hierarchy, its state, props, and more.
+
+91. **Context Selector**: Imagine a smart system in your house that knows exactly which rooms need heating based on their occupancy. In React, Context Selectors allow a component to read a value from the Context and re-render only when that value changes.
+
+92. **Server Components**: It’s like having remote-controlled rooms in your house, where the setup is decided elsewhere but executed in your room. Server Components in React allow parts of a UI to be rendered on the server, blending server and client rendering.
+
+93. **React Testing Library**: Think of it as safety tests for each room in your house, ensuring everything functions as expected. The React Testing Library is a set of helpers for testing React components, focusing on their behaviors.
+
+94. **React Patterns**: These are best practice designs, like ideal layouts for rooms in different houses. In React, patterns are recognized solutions to common problems or best practices in crafting React applications.
+
+95. **Key Prop**: Imagine labeling every item in your house so they can be identified and tracked easily. In React, the `key` prop is a special attribute you need to specify when creating lists of elements.
+
+96. **Functional Components**: Consider these as rooms with a single purpose, like a reading nook. In React, functional components are simpler versions of class components, without lifecycle methods or internal state (before Hooks).
+
+97. **JSX Pragma**: Think of it as the foundation blueprint of your house, defining how other structures will be added. JSX Pragma dictates the function JSX transpiles to in the compilation process.
+
+98. **React Profiler**: It's like a utility bill breaking down energy consumption in each room. The React Profiler measures how components render and identifies potential performance bottlenecks.
+
+99. **React StrictMode**: Consider it a rigorous home inspection ensuring all parts of the house adhere to the latest safety standards. StrictMode is a tool in React for highlighting potential problems in applications during development.
+
+100. **React Fiber Reconciliation**: Picture a home renovation team assessing the smallest changes needed to transform one room version to another. This refers to React's algorithm to efficiently update the UI by comparing the current view with a new one.
+
